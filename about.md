@@ -8,7 +8,7 @@ Graduated from Beijing Jiaotong University
 
 ### More Information
 
-Love Git, hate SVN.
+Love Git, hate SVN.  
 Prefer Mac to PC.
 
 ### Contact me
