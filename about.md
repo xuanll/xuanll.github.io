@@ -4,11 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Graduated from Beijing Jiaotong University
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Love Git, hate SVN.
+Prefer Mac to PC.
 
 ### Contact me
 
