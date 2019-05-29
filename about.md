@@ -13,4 +13,4 @@ Prefer Mac to PC.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[xuanll.Modix@gmail.com](mailto:xuanll.Modix@gmail.com)
