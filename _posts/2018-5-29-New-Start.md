@@ -1,6 +1,6 @@
 ---
 layout: post
-title: New Start
+title: 新的开始
 ---
 
-It's a new start.
+这是个新的开始
