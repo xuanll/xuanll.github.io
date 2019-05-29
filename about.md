@@ -1,16 +1,16 @@
 ---
 layout: page
-title: About
+title: 关于
 permalink: /about/
 ---
 
-Graduated from Beijing Jiaotong University
+毕业于北京交通大学
 
-### More Information
+### 更多
 
 Love Git, hate SVN.  
 Prefer Mac to PC.
 
-### Contact me
+### 联系方式
 
 [xuanll.Modix@gmail.com](mailto:xuanll.Modix@gmail.com)
