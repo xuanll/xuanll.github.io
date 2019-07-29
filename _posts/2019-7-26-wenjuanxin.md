@@ -3,6 +3,6 @@ layout: post
 title: 滑板报名表
 ---
 
-## **慢慢青年**滑板报名表
+## **慢慢青年**滑板[报名表](https://ks.wjx.top/jq/43342029.aspx)
 
-二维码
+![](/images/报名问卷.png)
