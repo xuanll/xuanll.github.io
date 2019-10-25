@@ -13,8 +13,10 @@ permalink: /about/
 [b站UP主](https://space.bilibili.com/6559126)
 
 ### 联系方式
+[邮箱](mailto:manman@manman19.club)
 
-[xuanll.Modix@gmail.com](mailto:xuanll.Modix@gmail.com)
+[xuanll.Modix@gmail.com](mailto:xuanll.Modix@gmail.com)   
+
 微博 [@慢慢青年](https://weibo.com/wwqnx)   
 
 微信 tmpx777   
