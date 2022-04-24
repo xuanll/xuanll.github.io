@@ -32,9 +32,9 @@ QQ群 723831211
 
 ### 懒人请看这
 
-![微信二维码](/images/wxQR.png)   
-![QQ二维码](/images/qQR.png)  
-![支付宝二维码](/images/zfbQR.png)   
+![微信二维码](/images/wxQR.jpg)   
+![QQ二维码](/images/qQR.jpg)  
+![支付宝二维码](/images/zfbQR.pjpg)   
 ![微信赞赏码](/images/wxZS.png)
 
 
