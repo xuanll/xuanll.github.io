@@ -4,8 +4,9 @@ title: 关于慢慢
 permalink: /about/
 ---
 
-`本科`&`研究生`毕业于[北京交通大学](https://www.bjtu.edu.cn)   
-[软件工程](http://sse.bjtu.edu.cn/cms/)专业 
+`本科`&`研究生`  
+@[北京交通大学](https://www.bjtu.edu.cn)   
+> [软件工程](http://sse.bjtu.edu.cn/cms/)专业 
 
 [滑板教练 x 俱乐部创始人](https://weibo.com/wwqnx)  
 
