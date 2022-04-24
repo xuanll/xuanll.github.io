@@ -35,6 +35,10 @@ QQ群 723831211
 ![微信二维码](/images/wxQR.jpg)   
 ![QQ二维码](/images/qQR.jpg)  
 ![支付宝二维码](/images/zfbQR.jpg)   
-![微信赞赏码](/images/wxZS.png)
 
+---
+以下涉及金钱，请谨慎扫码
+
+请我喝`某夫山泉苏打水`：
+![赞赏码](/images/wxZS.png)
 
