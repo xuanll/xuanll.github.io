@@ -34,7 +34,7 @@ QQ群 723831211
 
 ![微信二维码](/images/wxQR.jpg)   
 ![QQ二维码](/images/qQR.jpg)  
-![支付宝二维码](/images/zfbQR.pjpg)   
+![支付宝二维码](/images/zfbQR.jpg)   
 ![微信赞赏码](/images/wxZS.png)
 
 
