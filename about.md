@@ -1,20 +1,12 @@
 ---
 layout: page
-title: 关于慢慢
+title: 关于
 permalink: /about/
 ---
 
 `本科`&`研究生`  
 @[北京交通大学](https://www.bjtu.edu.cn)   
 > [软件工程](http://sse.bjtu.edu.cn/cms/)专业 
-
-[滑板教练 x 俱乐部创始人](https://weibo.com/wwqnx)  
-
-[摄影师](https://500px.me/manman90)
-
-[b站UP主](https://space.bilibili.com/6559126)
-
-[Bilibili主播(直播间号2444311)](https://live.bilibili.com/2444311)
 
 base Wuhan
 
@@ -25,21 +17,6 @@ base Wuhan
 [支付宝:xuanll@yeah.net]  
 
 Tel：18627949107  
-微博 [@慢慢青年](https://weibo.com/wwqnx)   
 
 微信 tmpx777  
 QQ 744933502  
-QQ群 723831211
-
-### 懒人请看这
-
-![微信二维码](/images/wxQR.jpg)   
-![QQ二维码](/images/qQR.jpg)  
-![支付宝二维码](/images/zfbQR.jpg)   
-
----
-以下涉及金钱，请谨慎扫码
-
-请我喝`某夫山泉苏打水`：
-![赞赏码](/images/wxZS.png)
-
