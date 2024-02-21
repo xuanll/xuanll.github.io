@@ -8,13 +8,9 @@ permalink: /about/
 @[北京交通大学](https://www.bjtu.edu.cn)   
 > [软件工程](http://sse.bjtu.edu.cn/cms/)专业 
 
-base Wuhan
-
 ### 联系方式
 [慢慢邮箱 manmanstudio@outlook.com](mailto:manmanstudio@outlook.com)  
 [谷歌邮箱/PayPal](mailto:xuanll.Modix@gmail.com)   xuanll.Modix@gmail.com  
-
-[支付宝:xuanll@yeah.net]  
 
 Tel：18627949107  
 
